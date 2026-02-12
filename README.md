@@ -116,10 +116,6 @@ I build practical full‑stack applications and love turning ideas into deployed
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohammedYousufCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedYousufCode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com/?user=MohammedYousufCode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
@@ -130,7 +126,7 @@ I build practical full‑stack applications and love turning ideas into deployed
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://l1nk.dev/CyberHlBs-LinkedIn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-yousuf-a75a76299/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedyousuf8505@gmail.com)
 
 **Open to SDE internships and full‑time opportunities at product‑based companies.**
