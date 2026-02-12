@@ -16,11 +16,11 @@ I build practical full‑stack applications and love turning ideas into deployed
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -28,7 +28,7 @@ I build practical full‑stack applications and love turning ideas into deployed
 ### Backend
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ### Databases
@@ -39,7 +39,7 @@ I build practical full‑stack applications and love turning ideas into deployed
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
@@ -57,7 +57,7 @@ I build practical full‑stack applications and love turning ideas into deployed
 - Suggest nearby healthcare facilities using Google Maps API integration
 - Secure authentication and data storage with Supabase
 
-[View Repository](#)
+[View Repository](https://github.com/MohammedYousufCode/medisense-ai-health-reports)
 
 ---
 
@@ -71,7 +71,7 @@ I build practical full‑stack applications and love turning ideas into deployed
 - Responsive design with Tailwind CSS for seamless mobile experience
 - Analytics dashboard to visualize progress over time
 
-[View Repository](#)
+[View Repository](https://github.com/MohammedYousufCode/SuccessInside)
 
 ---
 
@@ -85,7 +85,7 @@ I build practical full‑stack applications and love turning ideas into deployed
 - RESTful API built with Django
 - PostgreSQL database for reliable data persistence
 
-[View Repository](#)
+[View Repository](https://github.com/MohammedYousufCode/Weekly_Skill_Builder)
 
 ---
 
@@ -99,7 +99,7 @@ I build practical full‑stack applications and love turning ideas into deployed
 - Data persistence with local file storage
 - Monthly and yearly financial summaries
 
-[View Repository](#)
+[View Repository](https://github.com/MohammedYousufCode/personal-finance-tracker)
 
 ---
 
@@ -116,11 +116,11 @@ I build practical full‑stack applications and love turning ideas into deployed
 
 <div align="center">
 
-![Mohammed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohammedYousufCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=MohammedYousufCode&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedYousufCode&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedYousufCode&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MohammedYousufCode&theme=tokyonight&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=MohammedYousufCode&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -131,7 +131,7 @@ I build practical full‑stack applications and love turning ideas into deployed
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://l1nk.dev/CyberHlBs-LinkedIn)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedyousuf8505@gmail.com)
 
 **Open to SDE internships and full‑time opportunities at product‑based companies.**
 
