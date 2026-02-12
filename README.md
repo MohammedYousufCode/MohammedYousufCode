@@ -1,16 +1,12 @@
 <div align="center">
+  
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Mohammed+Yousuf" alt="Typing SVG" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,6,12,20&height=100&section=header&text=&fontSize=0" />
+### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=8B5CF6&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Final+Year+BCA+Student+%C2%B7+Full-Stack+Developer;AI%2FML+Enthusiast+%C2%B7+Problem+Solver" alt="Typing SVG" />
 
-# 👨‍💻 Mohammed Yousuf
-
-<img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=500&size=24&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Final+Year+BCA+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Building+the+Future%2C+One+Commit+at+a+Time" alt="Typing SVG" />
-
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 **I build practical full‑stack applications and love turning ideas into deployed products.**
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="800">
 
 </div>
 
