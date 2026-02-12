@@ -1,12 +1,12 @@
 <div align="center">
-  
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Mohammed+Yousuf" alt="Typing SVG" />
 
-### <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=500&color=8B5CF6&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Final+Year+BCA+Student+%C2%B7+Full-Stack+Developer;AI%2FML+Enthusiast+%C2%B7+Problem+Solver" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Yousuf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+### 🚀 Final Year BCA Student · 💻 Full-Stack Developer · 🤖 AI/ML Enthusiast
 
-**I build practical full‑stack applications and love turning ideas into deployed products.**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+practical+full-stack+solutions;Turning+ideas+into+deployed+products;Always+learning%2C+always+building" alt="Typing SVG" />
+
+---
 
 </div>
 
