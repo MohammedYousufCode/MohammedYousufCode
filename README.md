@@ -7,22 +7,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%E2%96%B6+FINAL+YEAR+BCA+STUDENT;%E2%96%B6+FULL-STACK+DEVELOPER+%7C+AI%2FML+SPECIALIST;%E2%96%B6+BUILDING+THE+FUTURE%2C+ONE+LINE+AT+A+TIME" alt="Subtitle Animation" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║     "Sometimes you gotta run before you can walk."               ║
-║                                        - Tony Stark              ║
-║                                                                  ║
-║  > Building practical full-stack applications                    ║
-║  > Turning ideas into deployed products                          ║
-║  > Status: OPERATIONAL ✓                                         ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+
+<h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=4000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=%22Sometimes+you+gotta+run+before+you+can+walk.%22+%E2%80%93+Tony+Stark;Building+practical+full-stack+applications;Turning+ideas+into+deployed+products;Status%3A+OPERATIONAL+%E2%9C%93" alt="Quote Animation" />
+</h3>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
-</div>>
+</div>
 
 ## 🛠️ Tech Stack
 
