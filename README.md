@@ -1,14 +1,28 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Yousuf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0090ff,100:0040ff&height=200&section=header&text=&fontSize=0&animation=twinkling" />
 
-### 🚀 Final Year BCA Student · 💻 Full-Stack Developer · 🤖 AI/ML Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=MOHAMMED+YOUSUF;INITIALIZING+SYSTEMS..." alt="Name Animation" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Building+practical+full-stack+solutions;Turning+ideas+into+deployed+products;Always+learning%2C+always+building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%E2%96%B6+FINAL+YEAR+BCA+STUDENT;%E2%96%B6+FULL-STACK+DEVELOPER+%7C+AI%2FML+SPECIALIST;%E2%96%B6+BUILDING+THE+FUTURE%2C+ONE+LINE+AT+A+TIME" alt="Subtitle Animation" />
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║     "Sometimes you gotta run before you can walk."               ║
+║                                        - Tony Stark              ║
+║                                                                  ║
+║  > Building practical full-stack applications                    ║
+║  > Turning ideas into deployed products                          ║
+║  > Status: OPERATIONAL ✓                                         ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+</div>>
 
 ## 🛠️ Tech Stack
 
