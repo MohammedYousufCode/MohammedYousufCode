@@ -231,8 +231,8 @@ TypeScript Deep Dive	🟩🟩🟩🟩🟩⬜⬜⬜ 65%	TypeScript Handbook
 
 <div align="center">
 
-**LeetCode Journey**Code Journey
-text
+**LeetCode Journey**
+
 Total Problems Solved: 20+
 ├── Easy: 12 ✅
 ├── Medium: 8 ✅
@@ -451,9 +451,10 @@ Select these 4 repos:
 ✅ Weekly_Skill_Builder
 
 🔥 BONUS: Add Snake Animation (Optional)
+
 Step 1: Create .github/workflows/snake.yml in your profile repo
 
-text
+```yaml
 name: Generate Snake
 
 on:
