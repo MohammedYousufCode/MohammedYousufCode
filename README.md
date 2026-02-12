@@ -1,21 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0090ff,100:0040ff&height=200&section=header&text=&fontSize=0&animation=twinkling" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Yousuf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=60&duration=2000&pause=500&color=00D4FF&center=true&vCenter=true&width=800&height=100&lines=MOHAMMED+YOUSUF;SYSTEMS+ONLINE..." alt="Name Animation" />
+### 🚀 Final Year BCA Student · 💻 Full-Stack Developer · 🤖 AI/ML Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=26&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=900&height=120&lines=%E2%96%B6+FINAL+YEAR+BCA+STUDENT;%E2%96%B6+FULL-STACK+DEVELOPER+%7C+AI%2FML+SPECIALIST;%E2%96%B6+BUILDING+THE+FUTURE%2C+ONE+LINE+AT+A+TIME" alt="Subtitle Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+practical+full-stack+solutions;Turning+ideas+into+deployed+products;Always+learning%2C+always+building;Code+is+poetry+written+in+logic;First%2C+solve+the+problem.+Then%2C+write+the+code;Make+it+work%2C+make+it+right%2C+make+it+fast;Clean+code+always+looks+like+it+was+written+by+someone+who+cares;Debugging+is+being+a+detective+in+a+crime+movie;Where+bugs+are+just+features+in+disguise;Coffee+%2B+Code+%3D+Magic" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<h3>
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=20&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=1000&lines=%22Code+is+poetry+written+in+logic%22;%22First%2C+solve+the+problem.+Then%2C+write+the+code%22;%22Make+it+work%2C+make+it+right%2C+make+it+fast%22;%22Clean+code+always+looks+like+it+was+written+by+someone+who+cares%22;Building+practical+full-stack+applications;Turning+ideas+into+deployed+products;Debugging+is+like+being+a+detective+in+a+crime+movie;Where+bugs+are+just+features+in+disguise;Status%3A+OPERATIONAL+%E2%9C%93" alt="Coding Quotes Animation" />
-</h3>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+---
 
 </div>
-
 ## 🛠️ Tech Stack
 
 ### Languages
