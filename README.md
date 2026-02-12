@@ -1,10 +1,44 @@
-# 👋 Hi, I'm Mohammed Yousuf
+<div align="center">
+  
+# 👨‍💻 Mohammed Yousuf
 
-### 🚀 Final Year BCA Student | Full-Stack Developer | AI/ML Enthusiast
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Final+Year+BCA+Student;Full-Stack+Developer;AI%2FML+Enthusiast;Building+Production-Ready+Apps" alt="Typing SVG" />
 
-> **"Started coding seriously in my final year - now building production-ready applications while preparing for SDE roles at product-based companies."**
+[![Profile Views](https://komarev.com/ghprofileviewcount/?username=MohammedYousufCode&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/MohammedYousufCode)
+[![GitHub followers](https://img.shields.io/github/followers/MohammedYousufCode?label=Followers&style=social)](https://github.com/MohammedYousufCode?tab=followers)
+
+</div>
 
 ---
+
+## 🌊 About Me
+
+```javascript
+const mohammedYousuf = {
+    pronouns: "he" | "him",
+    location: "India 🇮🇳",
+    currentStatus: "Final Year BCA Student",
+    code: ["Python", "JavaScript", "TypeScript", "Java"],
+    askMeAbout: ["Web Dev", "AI/ML", "React", "Django", "DSA"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Next.js"],
+            css: ["Tailwind", "Bootstrap", "Material-UI"],
+            uiLibraries: ["Shadcn/ui", "Radix UI"]
+        },
+        backEnd: {
+            python: ["Django", "Flask", "FastAPI"],
+            js: ["Node.js", "Express"],
+            databases: ["PostgreSQL", "MySQL", "Supabase"],
+        },
+        aiml: ["TensorFlow", "PyTorch", "scikit-learn", "NLP", "OCR"],
+        devOps: ["Docker", "Git", "Vercel", "Railway"],
+        tools: ["VS Code", "Postman", "Figma", "HeidiSQL"]
+    },
+    architecture: ["Serverless Architecture", "RESTful APIs", "Microservices"],
+    currentFocus: "Building MediSense - Medical Report Simplifier using AI/ML",
+    funFact: "Started coding seriously in my final year - proving it's never too late! 🚀"
+};
 
 ## 🔭 What I'm Working On
 
