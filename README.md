@@ -45,18 +45,6 @@
 
 ## 🚀 Featured Projects
 
-### **MediSense – Medical Report Simplifier**
-*Final year project using OCR + NLP + pre‑trained ML models to simplify medical reports for patients.*
-
-**Tech Stack:** Python, React, OCR, NLP, Supabase, Google Maps API
-
-- Extract text from scanned medical reports using OCR technology
-- Simplify medical jargon into patient‑friendly language with NLP
-- Suggest nearby healthcare facilities using Google Maps API integration
-- Secure authentication and data storage with Supabase
-
-[View Repository](https://github.com/MohammedYousufCode/medisense-ai-health-reports)
-
 ---
 
 ### **SuccessInside – Habit Tracking App**
