@@ -60,20 +60,6 @@
 
 ---
 
-### **Weekly Skill Builder**
-*A task/skill tracking web app with analytics to monitor learning progress.*
-
-**Tech Stack:** React, Django, PostgreSQL
-
-- Track weekly skills and tasks with progress monitoring
-- Data visualization and analytics dashboard
-- RESTful API built with Django
-- PostgreSQL database for reliable data persistence
-
-[View Repository](https://github.com/MohammedYousufCode/Weekly_Skill_Builder)
-
----
-
 ### **Personal Finance Tracker (CLI)**
 *Command‑line Python application to track income and expenses with category‑based reporting.*
 
@@ -90,10 +76,10 @@
 
 ## 🎯 What I'm Currently Focusing On
 
-- Strengthening Data Structures & Algorithms in Python
+- Strengthening Data Cleaning & Visualizations Skills in Python
 - Completing MediSense and deploying it to production
-- Preparing for SDE roles at product‑based companies
-- Improving system design and backend architecture skills
+- Preparing for DATA roles
+- Improving Analytical abd Probelm Solving Skills in Coding
 
 ---
 
