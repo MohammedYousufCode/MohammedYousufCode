@@ -114,7 +114,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-yousuf-a75a76299/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedyousuf8505@gmail.com)
 
-**Open to DATA ANALYST & SCIENTIST internships and full‑time opportunities at product‑based companies.**
+**Open to DATA ANALYST & SCIENTIST internships and full‑time opportunities.**
 
 </div>
 
