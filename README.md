@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Yousuf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-### 🚀 Final Year BCA Student · 💻 Full-Stack Developer · 🤖 AI/ML Enthusiast
+### 🚀 Final Year BCA Student · Data Analyst · 🤖 AI/ML & Full Stack Enthusiast 
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+practical+full-stack+solutions;Turning+ideas+into+deployed+products;Always+learning%2C+always+building;Code+is+poetry+written+in+logic;First%2C+solve+the+problem.+Then%2C+write+the+code;Make+it+work%2C+make+it+right%2C+make+it+fast;Clean+code+always+looks+like+it+was+written+by+someone+who+cares;Debugging+is+being+a+detective+in+a+crime+movie;Where+bugs+are+just+features+in+disguise;Coffee+%2B+Code+%3D+Magic" alt="Typing SVG" />
 
@@ -114,7 +114,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-yousuf-a75a76299/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedyousuf8505@gmail.com)
 
-**Open to SDE internships and full‑time opportunities at product‑based companies.**
+**Open to DATA ANALYST & SCIENTIST internships and full‑time opportunities at product‑based companies.**
 
 </div>
 
