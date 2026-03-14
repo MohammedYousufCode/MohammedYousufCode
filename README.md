@@ -2,84 +2,139 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Yousuf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-### 🚀 Final Year BCA Student · Data Analyst · 🤖 AI/ML & Full Stack Enthusiast 
+### 🤖 Aspiring AI/ML Engineer · Data Analyst · Final Year BCA Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Building+practical+full-stack+solutions;Turning+ideas+into+deployed+products;Always+learning%2C+always+building;Code+is+poetry+written+in+logic;First%2C+solve+the+problem.+Then%2C+write+the+code;Make+it+work%2C+make+it+right%2C+make+it+fast;Clean+code+always+looks+like+it+was+written+by+someone+who+cares;Debugging+is+being+a+detective+in+a+crime+movie;Where+bugs+are+just+features+in+disguise;Coffee+%2B+Code+%3D+Magic" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Transforming+data+into+intelligent+solutions;Building+ML+models+that+solve+real+problems;From+raw+data+to+actionable+insights;Currently+targeting+Data+Analyst+roles;Learning+AI%2FML+%7C+Mastering+Data+Science;Statistics+%2B+Python+%3D+Powerful+Analysis;Data+tells+stories%2C+I+help+them+speak;Turning+complexity+into+clarity;Where+algorithms+meet+real-world+impact;Building+the+future%2C+one+dataset+at+a+time" alt="Typing SVG" />
 
 ---
 
 </div>
-### 🛠️ Tech Stack
 
-### Languages
+## 👨‍💻 About Me
+
+Final year BCA student passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**. Currently building a strong foundation in data analysis and statistical modeling while exploring the world of AI/ML engineering. I believe in learning by doing—every project is an opportunity to solve real problems with data-driven solutions.
+
+🎯 **Current Focus:** Securing Data Analyst roles while expanding AI/ML expertise  
+🚀 **Goal:** Become a proficient AI/ML Engineer who builds intelligent systems that make a difference
+
+---
+
+## 🛠️ Technical Skills
+
+### Core Programming & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-### Frontend
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Backend
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+### Data Analysis & Visualization
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 
-
-### Databases
+### Databases & Backend
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### Mathematics & Statistics
+- Statistical Analysis & Hypothesis Testing
+- Probability Theory & Distributions
+- Linear Algebra & Calculus Fundamentals
+- Descriptive & Inferential Statistics
+
+---
+
+## 📚 Currently Learning
+
+🔄 **Active Focus Areas:**
+- **Machine Learning:** Scikit-learn, Model Training & Evaluation
+- **Deep Learning:** TensorFlow/PyTorch basics
+- **Advanced Visualization:** Seaborn, Plotly
+- **Feature Engineering:** Data preprocessing and transformation techniques
+- **SQL Mastery:** Complex queries, window functions, optimization
+
+📖 **On the Roadmap:**
+- Natural Language Processing (NLP)
+- Computer Vision fundamentals
+- Time Series Analysis
+- Cloud platforms (AWS/GCP) for ML deployment
+- MLOps basics
 
 ---
 
 ## 🚀 Featured Projects
 
----
+### **MediSense – AI Medical Report Analyzer** 🔬 *[Ongoing]*
+*Full-stack web application for analyzing and summarizing lab test reports with AI*
 
-### **SuccessInside – Habit Tracking App**
-*A full‑stack habit tracking app with real‑time analytics, streak tracking and a clean UI.*
+**Tech Stack:** React, TypeScript, Groq (Llama 3.3), PDF.js, jsPDF, HTML/CSS
 
-**Tech Stack:** React, TypeScript, Supabase, Tailwind CSS
+- Upload blood test PDFs (CBC, ESR, etc.) and extract structured data automatically
+- AI-powered interpretation with JSON output for parameters, status, and health advice
+- Interactive health dashboard with color-coded normal/borderline/abnormal indicators
+- Auto-generated AI summary in simple, patient-friendly language
+- **"Medical Terms Glossary"** – explains each parameter in one line for easy understanding
+- One-click export of polished multi-page PDF report with complete analysis and recommendations
+- Built with Llama 3.3 via Groq API for fast, accurate medical data interpretation
 
-- Create and update habits with automated streak tracking
-- Real‑time data synchronization powered by Supabase
-- Responsive design with Tailwind CSS for seamless mobile experience
-- Analytics dashboard to visualize progress over time
-
-[View Repository](https://github.com/MohammedYousufCode/SuccessInside)
+*Currently in active development – Adding more test types and improving AI accuracy*
 
 ---
 
 ### **Personal Finance Tracker (CLI)**
-*Command‑line Python application to track income and expenses with category‑based reporting.*
+*Command-line Python application for tracking income and expenses with data analysis capabilities*
 
-**Tech Stack:** Python
+**Tech Stack:** Python, Pandas, File I/O
 
-- Track income and expenses through an intuitive CLI
-- Category‑based expense reporting and analysis
-- Data persistence with local file storage
-- Monthly and yearly financial summaries
+- Track and categorize financial transactions through intuitive CLI
+- Generate monthly/yearly financial reports with statistical summaries
+- Data persistence and CSV export functionality
+- Built-in visualization of spending patterns
 
 [View Repository](https://github.com/MohammedYousufCode/personal-finance-tracker)
 
 ---
 
-## 🎯 What I'm Currently Focusing On
+### **[Coming Soon] Data Analysis Portfolio Projects**
+*Building practical data science projects to demonstrate analytical skills*
 
-- Strengthening Data Cleaning & Visualizations Skills in Python
-- Completing MediSense and deploying it to production
-- Preparing for DATA roles
-- Improving Analytical abd Probelm Solving Skills in Coding
+**Planned Projects:**
+- Exploratory Data Analysis (EDA) on real-world datasets
+- Sales/Revenue analysis with visualization dashboards
+- Customer segmentation using clustering algorithms
+- Predictive modeling for business metrics
+
+---
+
+## 💼 What I Bring to the Table
+
+✅ **Strong Python Foundation** – Comfortable with data manipulation and analysis  
+✅ **SQL Proficiency** – Complex queries, joins, and database design  
+✅ **Statistical Thinking** – Apply mathematics to solve data problems  
+✅ **Problem Solver** – Break down complex challenges into actionable steps  
+✅ **Fast Learner** – Quickly adapt to new tools and technologies  
+✅ **Version Control** – Clean Git workflow and collaboration ready
+
+---
+
+## 🎯 Career Goals
+
+**Immediate (2024-2025):**
+- Land a Data Analyst role to build industry experience
+- Complete 3-5 end-to-end data analysis projects
+- Obtain relevant certifications (Google Data Analytics, IBM Data Science)
+
+**Medium Term (2025-2026):**
+- Transition into AI/ML Engineering roles
+- Contribute to open-source ML projects
+- Build and deploy production-grade ML models
+
+**Long Term:**
+- Become a specialized AI/ML Engineer in NLP or Computer Vision
+- Develop solutions that create real-world impact
+- Mentor aspiring data professionals
 
 ---
 
@@ -93,14 +148,16 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-yousuf-a75a76299/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammedyousuf8505@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohammedYousufCode)
 
-**Open to DATA ANALYST & SCIENTIST internships and full‑time opportunities.**
+**📩 Open to Data Analyst internships and entry-level opportunities**  
+**🤝 Happy to collaborate on data science and ML projects**
 
 </div>
 
@@ -108,6 +165,8 @@
 
 <div align="center">
 
-*"Code is like humor. When you have to explain it, it's bad."* – Cory House
+*"In God we trust. All others must bring data."* – W. Edwards Deming
+
+*"Data is the new oil, but analytics is the combustion engine."*
 
 </div>
