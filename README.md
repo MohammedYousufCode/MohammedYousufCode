@@ -121,12 +121,12 @@ Final year BCA student passionate about **Artificial Intelligence**, **Machine L
 
 ## 🎯 Career Goals
 
-**Immediate (2024-2025):**
+**Immediate (2025-2026):**
 - Land a Data Analyst role to build industry experience
 - Complete 3-5 end-to-end data analysis projects
 - Obtain relevant certifications (Google Data Analytics, IBM Data Science)
 
-**Medium Term (2025-2026):**
+**Medium Term (2026-2027):**
 - Transition into AI/ML Engineering roles
 - Contribute to open-source ML projects
 - Build and deploy production-grade ML models
