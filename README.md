@@ -128,7 +128,7 @@ Final year BCA student passionate about **Artificial Intelligence**, **Machine L
 - Complete 3-5 end-to-end data analysis projects
 - Obtain relevant certifications (Google Data Analytics, IBM Data Science)
 
-**Medium Term (2026-2027):**
+**Medium Term (2028-2029):**
 - Transition into AI/ML Engineering roles
 - Contribute to open-source ML projects
 - Build and deploy production-grade ML models
