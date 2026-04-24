@@ -33,7 +33,7 @@ Final year BCA student passionate about **Artificial Intelligence**, **Machine L
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=for-the-badge&logo=seaborn&logoColor=white)
-
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ### Databases & Backend
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -66,47 +66,40 @@ Final year BCA student passionate about **Artificial Intelligence**, **Machine L
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Data Analyst Portfolio
 
-### **MediSense – AI Medical Report Analyzer** 🔬 *[Ongoing]*
-*Full-stack web application for analyzing and summarizing lab test reports with AI*
+### 📊 HR Analytics — Employee Attrition Analysis
+*End-to-end HR analytics project identifying why employees leave and which departments are most at risk*
 
-**Tech Stack:** React, TypeScript, Groq (Llama 3.3), PDF.js, jsPDF, HTML/CSS
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-- Upload blood test PDFs (CBC, ESR, etc.) and extract structured data automatically
-- AI-powered interpretation with JSON output for parameters, status, and health advice
-- Interactive health dashboard with color-coded normal/borderline/abnormal indicators
-- Auto-generated AI summary in simple, patient-friendly language
-- **"Medical Terms Glossary"** – explains each parameter in one line for easy understanding
-- One-click export of polished multi-page PDF report with complete analysis and recommendations
-- Built with Llama 3.3 via Groq API for fast, accurate medical data interpretation
+- Analyzed 1,470 employees across 35 attributes using the IBM HR Analytics dataset
+- Wrote 7 advanced SQL queries covering Window Functions, CTEs, LAG, NTILE, and FILTER aggregates
+- Built a 5-visual interactive Power BI dashboard connected live to PostgreSQL
+- Uncovered that Sales Representatives have a 39.76% attrition rate — highest in the company
+- Found that 44% of R&D leavers were on overtime, linking overwork to junior-level exits
 
-*Currently in active development – Adding more test types and improving AI accuracy*
-
----
-
-### **Personal Finance Tracker (CLI)**
-*Command-line Python application for tracking income and expenses with data analysis capabilities*
-
-**Tech Stack:** Python, Pandas, File I/O
-
-- Track and categorize financial transactions through intuitive CLI
-- Generate monthly/yearly financial reports with statistical summaries
-- Data persistence and CSV export functionality
-- Built-in visualization of spending patterns
-
-[View Repository](https://github.com/MohammedYousufCode/personal-finance-tracker)
+[View Repository](https://github.com/MohammedYousufCode/hr_analytics_postgresql)
 
 ---
 
-### **[Coming Soon] Data Analysis Portfolio Projects**
-*Building practical data science projects to demonstrate analytical skills*
+### 🛒 Superstore EDA — Sales & Profit Analysis
+*Exploratory Data Analysis on a retail superstore dataset to uncover sales trends and business insights*
 
-**Planned Projects:**
-- Exploratory Data Analysis (EDA) on real-world datasets
-- Sales/Revenue analysis with visualization dashboards
-- Customer segmentation using clustering algorithms
-- Predictive modeling for business metrics
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=flat-square&logo=seaborn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+- Performed full data cleaning, outlier detection, and feature exploration on 9,994 records
+- Analyzed sales and profit across categories, sub-categories, regions, and customer segments
+- Identified the Technology category as the highest profit driver despite lower order volume
+- Discovered that the Furniture category — especially Tables — is consistently loss-making
+- Delivered 5 actionable business insights with supporting visualizations
+
+[View Repository](https://github.com/MohammedYousufCode/superstore-eda)
 
 ---
 
@@ -143,6 +136,27 @@ Final year BCA student passionate about **Artificial Intelligence**, **Machine L
 **🤝 Happy to collaborate on data science and ML projects**
 
 </div>
+
+---
+
+## 🔬 Final Year Project
+
+### MediSense – AI Medical Report Analyzer *(B.C.A Capstone Project)*
+*Full-stack web application that analyzes and summarizes lab test reports using AI*
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+- Upload blood test PDFs (CBC, ESR, etc.) and extract structured data automatically via OCR
+- AI-powered interpretation using Llama 3.3 via Groq API with color-coded normal/borderline/abnormal indicators
+- Auto-generated patient-friendly summary with a built-in Medical Terms Glossary
+- One-click export of a polished multi-page PDF report with full analysis and recommendations
+- Fully deployed on Vercel with Supabase as the backend
+
+[View Repository](https://github.com/MohammedYousufCode/medisense)
 
 ---
 
