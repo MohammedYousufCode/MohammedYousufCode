@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Yousuf&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Yousuf&fontSize=42&fontColor=fff&animation=twinkling" />
 
 ###  Data Analyst · Aspiring AI/ML Engineer · Final Year BCA Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Transforming+data+into+intelligent+solutions;Building+ML+models+that+solve+real+problems;From+raw+data+to+actionable+insights;Currently+targeting+Data+Analyst+roles;Learning+AI%2FML+%7C+Mastering+Data+Science;Statistics+%2B+Python+%3D+Powerful+Analysis;Data+tells+stories%2C+I+help+them+speak;Turning+complexity+into+clarity;Where+algorithms+meet+real-world+impact;Building+the+future%2C+one+dataset+at+a+time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Transforming+data+into+intelligent+solutions;Building+ML+models+that+solve+real+problems;Passionate+about+AI,+Data+Science,+and+Analytics" alt="Typing SVG" />
 
 ---
 
@@ -12,7 +12,7 @@
 
 ## 👨‍💻 About Me
 
-Final year BCA student passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**. Currently building a strong foundation in data analysis and statistical modeling while exploring the world of AI/ML engineering. I believe in learning by doing—every project is an opportunity to solve real problems with data-driven solutions.
+Final year BCA student passionate about **Artificial Intelligence**, **Machine Learning**, and **Data Science**. Currently building a strong foundation in data analysis and statistical modeling while expanding my knowledge of machine learning algorithms.
 
 🎯 **Current Focus:** Securing Data Analyst roles while expanding AI/ML expertise  
 🚀 **Goal:** Become a proficient AI/ML Engineer who builds intelligent systems that make a difference
@@ -100,6 +100,23 @@ Final year BCA student passionate about **Artificial Intelligence**, **Machine L
 - Delivered 5 actionable business insights with supporting visualizations
 
 [View Repository](https://github.com/MohammedYousufCode/superstore-eda)
+
+---
+
+### 🍽️ Zomato Bangalore Restaurant Analysis
+*Interactive dashboard for analyzing restaurant ratings, costs, and trends across Bangalore*
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-0099CC?style=flat-square&logo=seaborn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+
+- Built an interactive web application using Streamlit to explore 8,700+ restaurants across 93 areas
+- Analyzed restaurant ratings, cuisines, and cost trends using Pandas and Seaborn
+- Implemented features like city overview, area deep dive, and cuisine explorer with real-time filtering
+- Deployed a live dashboard providing actionable insights into the Bangalore food scene
+
+[View Repository](https://github.com/MohammedYousufCode/zomato-bangalore-analysis) | [Live App](https://zomato-bangalore-analysis.streamlit.app/)
 
 ---
 
