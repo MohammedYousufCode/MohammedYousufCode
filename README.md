@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohammed%20Yousuf&fontSize=42&fontColor=fff&animation=twinkling" />
 
-###  Data Analyst · Aspiring AI/ML Engineer · Final Year BCA Student
+###  Data Analyst · Passionate about AI/ML · Final Year BCA Student
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Transforming+data+into+intelligent+solutions;Building+ML+models+that+solve+real+problems;Passionate+about+AI,+Data+Science,+and+Analytics" alt="Typing SVG" />
 
